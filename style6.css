@@ -1,24 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
-html{
-    scroll-behavior: smooth;
-}
-body{
-    margin: 0px;
-    padding: 0px;
-    font-family: 'Montserrat', sans-serif;
-}
-nav{
-    display:flex;
-    flex-wrap:wrap;
-    justify-content: center;
-    align-items: center;
-    border-bottom: 5px solid #6f6f6f;
-}
-nav h1{
-    color: #717171;
-    font-family: 'Playfair Display', serif;
-    font-size: 30px;
 }
 nav .onglets{
     margin-top: 3px;
@@ -36,7 +15,7 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background:url('https://grouse-inn.co.uk/wp-content/uploads/2018/11/Luxury-Hotel.jpg')
+    background: url('https://www.vacationkey.com/photos/1/2/125868-1.jpg');
     background-size: cover;
     color: #fff;
     padding: 40px;
@@ -134,4 +113,4 @@ footer #contact{
     footer{
         padding: 30px;
     }
-
+}
